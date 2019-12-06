@@ -17,10 +17,14 @@
 {{ $bc = printf "%s%s%s" "border-bottom: 5px solid var(--" (.Params.borderColor) ");"}}
 {{ end }}
 
-
+{{ $imgPath := printf "%s%s" $.Site.BaseURL "images/1.JPG" }}
 <section class="section bkg-image" id="{{ .Title | anchorize }}" style="{{ safeCSS $bkg }} {{ safeCSS $bc }}">
+    {{ if eq .Title "memories"}}
+        <img src={{ $imgPath }}>
+    {{ else }}
     <h1 class="section__title">{{ .Title }}</h1>
-    {{ .Content }}
+        {{ .Content }}
+    {{ end }}
 </section>
 
 {{ end }}
