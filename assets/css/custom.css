@@ -23,3 +23,7 @@
 #happy-60th-birthday {
     text-align: center;
 }
+
+.bkg-image {
+    -webkit-background-size: cover;
+}
