@@ -13,4 +13,4 @@ The Vittorio can be territorial, and may get aggressive when approached with cer
 
 Even though Vittorio might sound Dutch with his accent, Italy lies deep within his heart and, when prompted about Ravenna, the Vittorio will vividly describe its multiple UNESCO heritage sites with great pride. But be warned: once he starts, he cannot be stopped.
 
-He has very few known weaknesses – unless you count his volatile tear ducts, guitar obsession and fragile knee – but experts have identified one: his registered mate4lyfe, JoJo. And his overconsumption of cheese
+He has very few known weaknesses – unless you count his volatile tear ducts, guitar obsession and fragile knee – but experts have identified one: his registered mate4lyfe, JoJo. And his overconsumption of cheese.
