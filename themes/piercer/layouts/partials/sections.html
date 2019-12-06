@@ -17,10 +17,10 @@
 {{ $bc = printf "%s%s%s" "border-bottom: 5px solid var(--" (.Params.borderColor) ");"}}
 {{ end }}
 
-{{ $imgPath := printf "%s%s" $.Site.BaseURL "images/1.JPG" }}
+{{ $imgPath := printf "%s%s" $.Site.BaseURL "images/femily.gif" }}
 <section class="section bkg-image" id="{{ .Title | anchorize }}" style="{{ safeCSS $bkg }} {{ safeCSS $bc }}">
     {{ if eq .Title "memories"}}
-    <h1>Here is to you <i class="em em-birthday" aria-role="presentation" aria-label="BIRTHDAY CAKE"></i></h1>
+    <h1>Here's to you <i class="em em-birthday" aria-role="presentation" aria-label="BIRTHDAY CAKE"></i></h1>
         <img src={{ $imgPath }}>
     {{ else }}
     <h1 class="section__title">{{ .Title }}</h1>
