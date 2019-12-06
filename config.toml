@@ -1,0 +1,21 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Happy 60th Vittorio"
+theme = "piercer"
+
+[params.palette]
+    text = "#173773"
+    foreground = "#173773"
+    background = "#dbdbdb"
+    green = "#173773"
+
+[params.googlefonts]
+    font = "Solway"
+
+[params.fontsizes]
+    base = "1.45em"
+    p = "1.5em"
+    h4 = "1.563em"
+    h3 = "1.953em"
+    h2 = "2.441em"
+    h1 = "3.052em"
